@@ -1,8 +1,7 @@
 {
-  "siteTitle": "Ocean Market",
-  "siteTagline": "A marketplace to find, publish and trade datasets in the Ocean Network.",
-  "siteUrl": "https://market.oceanprotocol.com",
-  "siteImage": "/share.png",
+  "siteTitle": "CiterChain",
+  "siteTagline": "Allowing researchers to take back control of their work",
+  "siteImage": "/CiterChain.png",
   "copyright": "All Rights Reserved. Powered by ",
   "menu": [
     {
@@ -14,7 +13,7 @@
       "link": "/profile"
     }
   ],
-  "announcement": "[Lock your OCEAN](https://df.oceandao.org/) to get veOCEAN, earn rewards and curate data.",
+  "announcement": "Use CiterChain now!",
   "warning": {
     "ctd": "Compute-to-Data is still in a testing phase, please use it only on test networks."
   }

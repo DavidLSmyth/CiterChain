@@ -1,9 +1,9 @@
 :root {
   --brand-white: #ffffff;
   --brand-black: #141414;
-  --brand-pink: #ff4092;
+  --brand-pink: #744bc0;
   --brand-purple: #7b1173;
-  --brand-violet: #e000cf;
+  --brand-violet: #3100e07c;
 
   --brand-grey-darker: #201f1f;
   --brand-grey-dark: #303030;
@@ -19,7 +19,7 @@
   --brand-alert-orange: #b35f36;
   --brand-alert-yellow: #eac146;
 
-  --color-primary: #ff4092;
+  --color-primary: #8352cd;
   --color-secondary: #8b98a9;
 
   /* Only use these vars for most color referencing for easy light/dark mode */
